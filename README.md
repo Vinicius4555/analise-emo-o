@@ -1,1 +1,1 @@
-# analise-emo-o
+# analise-emoções
